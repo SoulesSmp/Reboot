@@ -2,5 +2,5 @@
 	"ip":"Soules.aternos.me",
 	"port": "12954",
 	"name": "Soul",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
